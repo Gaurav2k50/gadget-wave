@@ -3,3 +3,4 @@
 /api/.env
 /client/.env
 /api/.editorconfig
+api/.strapi-updater.json
