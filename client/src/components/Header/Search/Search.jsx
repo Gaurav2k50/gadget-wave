@@ -3,8 +3,6 @@ import { MdClose } from "react-icons/md";
 import "./Search.scss";
 import { useNavigate } from "react-router-dom";
 
-import prod from "../../../assets/products/earbuds-prod-1.webp";
-
 import useFetch from "../../../hooks/useFetch";
 
 const Search = ({ setShowSearch }) => {

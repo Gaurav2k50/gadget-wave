@@ -57,7 +57,7 @@ const Footer = () => {
           <div className="text">
             GAMECHANGER 2023 CREATED BY GS PREMIUM E-COMMERCE SOLUTION.
           </div>
-          <img src={Payment} />
+          <img src={Payment} alt="payment"/>
         </div>
       </div>
     </footer>

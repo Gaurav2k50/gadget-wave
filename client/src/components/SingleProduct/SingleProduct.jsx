@@ -9,7 +9,6 @@ import {
   FaPinterest,
   FaCartPlus,
 } from "react-icons/fa";
-import prod from "../../assets/products/earbuds-prod-2.webp";
 import "./SingleProduct.scss";
 
 import useFetch from "../../hooks/useFetch";

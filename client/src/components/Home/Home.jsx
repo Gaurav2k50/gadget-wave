@@ -14,6 +14,7 @@ const Home = () => {
   useEffect(() => {
     getProducts();
     getCategories();
+    // eslint-disable-next-line
   }, []);
 
   const getProducts = () => {
